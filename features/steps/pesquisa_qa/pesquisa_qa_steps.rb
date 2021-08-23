@@ -1,5 +1,6 @@
 Dado'que eu acesse a pagina da VV Test' do
   @home_page = HomePages.new
+  
   @home_page.load
 end
 
