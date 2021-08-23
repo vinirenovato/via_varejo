@@ -8,5 +8,5 @@ Funcionalidade: Pesquisa com o QA
   Cenário: Preencher pesquisa com dados obrigatórios válidos
     Dado que eu acesse a pagina da VV Test
     E acesse o menu "Pesquisa - QA"
-    Quando eu preencer todos os campos obrigatorios
-    Entao deve ser direcionado para uma pagina de sucesso
+    Quando eu preencher todos os campos obrigatorios
+    Entao devo ser direcionado para uma pagina de sucesso
